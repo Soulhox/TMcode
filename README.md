@@ -1,5 +1,5 @@
 # TransMilenioSystem
-In this repository you will find some examples of the code and how it is used for the application to the degree work titled "Sistema de detección de caracteres aplicado al reconocimiento de número de bus y ruta en TransMilenio"
+In this repository you will find some examples of the code and how it is used for the application of my degree work titled "Character detection system applied to bus number and route recognition in TransMilenio".
 
 # Files:
 
